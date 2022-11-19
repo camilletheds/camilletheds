@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @camilletheds
+- 👀 I’m currently interested in data science and maybe a little bit of ML
+- 🌱 I’m currently learning Pyhton and ML
